@@ -23,10 +23,10 @@ group :assets do
   gem 'uglifier', '1.2.3'
 end
 
-gem 'jquery-rails', '2.0.0'
+gem 'jquery-rails', '2.1.0'
 
 group :test do
-  gem 'capybara', '1.1.2'
+  gem 'capybara'
 end
 
 group :production do 
