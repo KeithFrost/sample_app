@@ -7,8 +7,7 @@
 # Ignore bundler config
 /.bundle
 
-# Ignore gem artifacts
-/Gemfile.lock
+# Ignore gem executable artifacts
 /bin
 
 # Ignore the default SQLite database.
