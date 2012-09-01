@@ -9,6 +9,7 @@
 
 # Ignore gem executable artifacts
 /bin
+/bundler_stubs
 
 # Ignore the default SQLite database.
 /db/*.sqlite3
